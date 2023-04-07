@@ -1,5 +1,8 @@
-![vsneon](https://github.com/hallen1995/hallen1995/blob/master/assets/vsneon1.gif)\
-[![xda](https://github.com/hallen1995/hallen1995/blob/master/assets/xda1.gif)](https://forum.xda-developers.com/member.php?u=4561985)[![yt](https://github.com/hallen1995/hallen1995/blob/master/assets/yt.gif)][![in](https://github.com/hallen1995/hallen1995/blob/master/assets/in.gif)](https://www.linkedin.com/in/hallen-barreto-9629a8189/)[![blog](https://github.com/hallen1995/hallen1995/blob/master/assets/blog1.gif)
+![vsneon](https://github.com/hallen1995/hallen1995/blob/master/assets/vsneon1.gif)
+![xda](https://github.com/acervenky/acervenky/blob/master/assets/xda1.gif)
+![yt](https://github.com/acervenky/acervenky/blob/master/assets/yt.gif)
+![in](https://github.com/acervenky/acervenky/blob/master/assets/in.gif)
+![blog](https://github.com/acervenky/acervenky/blob/master/assets/blog1.gif)
 
 ## Work Featured On :
 <a href="https://www.xda-developers.com/customize-aod-color-miui-11-trinity-substratum-theme/"><img src="https://raw.githubusercontent.com/hallen1995/hallen1995/master/assets/xda%20(2).png" width="50" height="50"></a> <a href="https://beebom.com/download-motorola-razr-retro-app-live-wallpapers-here/"><img src="https://raw.githubusercontent.com/halen1995/hallen1995/master/assets/bb.png" width="50" height="50"></a> <a href="https://www.bgr.in/news/oneplus-6-mod-turns-the-earpiece-into-second-stereo-speaker-657336/" target="_blank"><img src="https://raw.githubusercontent.com/hallen1995/hallen1995/master/assets/bgr.png" width="50" height="50"></a> <a href="https://www.firstpost.com/tech/news-analysis/oneplus-6-mod-may-convert-the-earpiece-speaker-into-an-external-stereo-speaker-4714621.html" target="_blank"><img src="https://raw.githubusercontent.com/hallen1995/hallen1995/master/assets/fp.png" width="50" height="50"></a> 
