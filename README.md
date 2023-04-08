@@ -40,5 +40,4 @@
   <a href = "https://www.linkedin.com/in/hallen-barreto-9629a8189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
- <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
-![github contribution grid snake animation](https://github.com/hallen1995/hallen1995/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/hallen1995/hallen1995/blob/output/github-contribution-grid-snake.svg)
