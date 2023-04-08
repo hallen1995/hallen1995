@@ -12,3 +12,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hallen1995&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/hallen1995"></p>
+
+
+<img src="/acervenky/acervenky/blob/master/assets/blog1.gif?raw=true" alt="blog1.gif">
