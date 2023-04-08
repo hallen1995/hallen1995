@@ -1,6 +1,7 @@
 ### Olá Pessoal 👋
-
-### 💻 Eu me chamo Hallen Victor
+  
+  
+### 💻 Eu me chamo Hallen Victor        
 
 - 🤔 Explorar novas tecnologias e desenvolver soluções de software para os problemas tecnológicos do nosso mundo.
 - 🎓 Estudando Gestão da Tecnologia da Informação - UNINTER
@@ -36,10 +37,8 @@
   <p align="center">
   <a href="https://instagram.com/hallenvictor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hallenvictor15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/hallen-barreto-9629a8189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href = "https://www.linkedin.com/in/hallen-barreto-9629a8189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<!--
-**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
->>>>>>> a3339e5ff38c70bfdacc428f711581e3000cb512
+ <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
+![github contribution grid snake animation](https://github.com/hallen1995/hallen1995/blob/output/github-contribution-grid-snake-dark.svg)
