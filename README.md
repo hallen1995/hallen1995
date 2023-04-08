@@ -22,11 +22,6 @@
 <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
  
 
-<<<<<<< HEAD
-<p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/hallen1995"></p>
-
-
-<img src="/acervenky/acervenky/blob/master/assets/blog1.gif?raw=true" alt="blog1.gif">
 =======
 ## Meu Status GitHub
 <p><a href="https://github.com/hallen1995">
@@ -34,9 +29,6 @@
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hallen1995&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-
-
-  
 
 
 
