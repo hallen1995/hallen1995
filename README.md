@@ -1,17 +1,53 @@
-![vsneon](https://github.com/hallen1995/hallen1995/blob/master/assets/vsneon1.gif)\
-[![xda](https://github.com/hallen1995/hallen1995/blob/master/assets/xda1.gif)](https://forum.xda-developers.com/member.php?u=4561985)[![yt](https://github.com/hallen1995/hallen1995/blob/master/assets/yt.gif)][![in](https://github.com/hallen1995/hallen1995/blob/master/assets/in.gif)](https://www.linkedin.com/in/hallen-barreto-9629a8189/)[![blog](https://github.com/hallen1995/hallen1995/blob/master/assets/blog1.gif)
+### Olá Pessoal 👋
 
-## Work Featured On :
-<a href="https://www.xda-developers.com/customize-aod-color-miui-11-trinity-substratum-theme/"><img src="https://raw.githubusercontent.com/hallen1995/hallen1995/master/assets/xda%20(2).png" width="50" height="50"></a> <a href="https://beebom.com/download-motorola-razr-retro-app-live-wallpapers-here/"><img src="https://raw.githubusercontent.com/halen1995/hallen1995/master/assets/bb.png" width="50" height="50"></a> <a href="https://www.bgr.in/news/oneplus-6-mod-turns-the-earpiece-into-second-stereo-speaker-657336/" target="_blank"><img src="https://raw.githubusercontent.com/hallen1995/hallen1995/master/assets/bgr.png" width="50" height="50"></a> <a href="https://www.firstpost.com/tech/news-analysis/oneplus-6-mod-may-convert-the-earpiece-speaker-into-an-external-stereo-speaker-4714621.html" target="_blank"><img src="https://raw.githubusercontent.com/hallen1995/hallen1995/master/assets/fp.png" width="50" height="50"></a> 
+### 💻 Eu me chamo Hallen Victor
 
-## Github Badges :
-<a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/hallen1995/hallen1995/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/hallen1995/hallen1995/master/assets/acbadge.gif" width="40" height="40"></a> 
+- 🤔 Explorar novas tecnologias e desenvolver soluções de software para os problemas tecnológicos do nosso mundo.
+- 🎓 Estudando Gestão da Tecnologia da Informação - UNINTER
+- 🎓 Graduado em Ciências Contábeis - UNOPAR
+##
 
+### 🛠 Linguagens de Desenvolvimento
+<div style="display: inline; gap:20px">
+<img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-## Github Stats :
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hallen1995&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 🔧 Integrated Development Environment(IDE)
+<div style="display: inline; gap:20px">
+<img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+<img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+ 
 
+<<<<<<< HEAD
 <p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/hallen1995"></p>
 
 
 <img src="/acervenky/acervenky/blob/master/assets/blog1.gif?raw=true" alt="blog1.gif">
+=======
+## Meu Status GitHub
+<p><a href="https://github.com/hallen1995">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hallen1995&show_icons=true&theme=radical" />
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hallen1995&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
+
+  
+
+
+
+ <div>
+  <p align="center">
+  <a href="https://instagram.com/hallenvictor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hallenvictor15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/hallen-barreto-9629a8189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+<!--
+**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>>>>>>> a3339e5ff38c70bfdacc428f711581e3000cb512
