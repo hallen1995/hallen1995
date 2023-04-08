@@ -41,3 +41,4 @@
 </div>
 
   ![Snake animation](https://github.com/hallen1995/hallen1995/blob/output/github-contribution-grid-snake.svg)
+  
