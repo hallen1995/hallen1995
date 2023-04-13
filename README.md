@@ -27,7 +27,6 @@
 ## Meu Status GitHub
 <p><a href="https://github.com/hallen1995">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hallen1995&&theme=radical&show_icons=true" />
-<!--   //<img height="140em" src="https://github-readme-stats.vercel.app/api?username=hallen1995&show_icons=true=radical)"/> -->
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hallen1995&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
