@@ -23,11 +23,12 @@
 <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
  
 
-=======
+
 ## Meu Status GitHub
 <p><a href="https://github.com/hallen1995">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hallen1995&show_icons=true&theme=radical" />
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hallen1995&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hallen1995&&theme=radical&show_icons=true" />
+<!--   //<img height="140em" src="https://github-readme-stats.vercel.app/api?username=hallen1995&show_icons=true=radical)"/> -->
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hallen1995&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
